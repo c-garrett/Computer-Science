@@ -1,2 +1,3 @@
 # Probability-and-Statistics
-This relevant code for probability and statistic problems
+- This repository contains material that I have used to gain foundation and grasp of probability and statistics.
+
