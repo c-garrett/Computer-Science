@@ -1,3 +1,3 @@
-# Probability-and-Statistics
-- This repository contains material that I have used to gain foundation and grasp of probability and statistics.
+# Probability Theory
+- contains lectures and notes that I have studied, in order to learn probability theory.
 
