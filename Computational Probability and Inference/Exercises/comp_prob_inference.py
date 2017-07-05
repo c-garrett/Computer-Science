@@ -60,7 +60,8 @@ def flip_fair_coins(number_of_coins):
     - list of length <number_of_coins> consisting of strings 'heads'/'tails'
     """
     finite_prob_space = {'heads': 0.5, 'tails': 0.5}
-    return [sample_from_finite_probability_space(finite_prob_space)for i in range(number_of_coins)]
+    return [sample_from_finite_probability_space(finite_prob_space)
+            for i in range(number_of_coins)]
 
 
 def plot_discrete_histogram(array, frequency=False, figsize=(5, 4)):
@@ -73,11 +74,9 @@ def plot_discrete_histogram(array, frequency=False, figsize=(5, 4)):
     - frequency: boolean (True => plot frequencies, False => plot counts)
     - figsize: tuple (width, height) of how large to make the plotted figure
     """
-
     array_as_series = pd.Series(array)
 
     counts = array_as_series.value_counts().sort_index()
-
     if frequency:
         counts /= counts.sum()
 
@@ -95,13 +94,11 @@ def plot_discrete_histogram(array, frequency=False, figsize=(5, 4)):
 
     plt.tight_layout()  # tidy up and remove some margins
 
-    plt.show()
-    
-    
+
 def print_prob_table_array(probabilities, outcomes):
     """
     Prints a probability table that is stored as a 1D array.
-    
+
     Input
     -----
     - probabilities: a 1D array of nonnegative entries that add to 1
@@ -118,20 +115,20 @@ def print_joint_prob_table_dict(dicts_in_dict):
     """
     Prints a joint probability table that is stored using the dictionaries
     within a dictionary representation.
-    
+
     Input
     -----
     - dicts_in_dict: joint probability table stored as dictionaries within a
       dictionary
     """
     print(pd.DataFrame(dicts_in_dict).T)
-    
-    
+
+
 def print_joint_prob_table_array(array, row_labels, col_labels):
     """
     Prints a joint probability table that is stored using the 2D array
     representation.
-    
+
     Input
     -----
     - array: 2D array for the joint probability table (doesn't have label info)
