@@ -1,6 +1,6 @@
 # Statistical Machine Learning (CMU)(WIP)
 - contains lectures and homeworks that I have studied, in order to learn machine learning
-# Convex Optimization (CMU)(WIP)
+# Convex Optimization 1(Stanford)(WIP)
 - contains lectures and homeworks that I have studied, in order to learn machine learning
 # Intermediate Statistics (CMU)(Done)
 - contains lectures and homeworks that I have studied, in order to learn statistics.
