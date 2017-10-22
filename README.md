@@ -1,3 +1,4 @@
+# Multimedia DBs and Data Mining (CMU)
 # Machine Learning with Large Data (CMU)
 # Statistical Machine Learning (CMU)(WIP)
 - contains lectures and homeworks that I have studied, in order to learn machine learning
