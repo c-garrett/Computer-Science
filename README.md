@@ -1,4 +1,4 @@
-# Machine Learning with Large Data (CMU)(WIP)
+# Machine Learning with Large Data (CMU)
 # Statistical Machine Learning (CMU)(WIP)
 - contains lectures and homeworks that I have studied, in order to learn machine learning
 # Convex Optimization 1(Stanford)(Done)
