@@ -1,6 +1,6 @@
-# Multimedia DBs and Data Mining (CMU)
-# Machine Learning with Large Data (CMU)
-# Statistical Machine Learning (CMU)(WIP)
+# Multimedia DBs and Data Mining (WIP)
+# Machine Learning with Large Data (WIP)
+# Statistical Machine Learning (CMU)(DONE)
 - contains lectures and homeworks that I have studied, in order to learn machine learning
 # Convex Optimization 1(Stanford)(Done)
 - contains lectures and homeworks that I have studied, in order to learn machine learning
