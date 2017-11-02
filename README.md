@@ -2,6 +2,7 @@
 # Machine Learning with Large Data (WIP)
 # Statistical Machine Learning (CMU)(DONE)
 - contains lectures and homeworks that I have studied, in order to learn machine learning
+- no numerical computations implemented in R
 # Convex Optimization 1(Stanford)(Done)
 - contains lectures and homeworks that I have studied, in order to learn machine learning
 # Intermediate Statistics (CMU)(Done)
