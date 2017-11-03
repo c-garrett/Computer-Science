@@ -1,4 +1,6 @@
-# Multimedia DBs and Data Mining (WIP)
+# Multimedia Databases and Data Mining (WIP)
+- contains lectures, readings, and homeworks, that I have studied, to learn machine learning.
+- contains programming solutions to homeworks.
 # Machine Learning with Large Data (WIP)
 # Statistical Machine Learning (CMU)(DONE)
 - contains lectures and homeworks that I have studied, in order to learn machine learning
