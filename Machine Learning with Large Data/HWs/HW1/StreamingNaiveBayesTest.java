@@ -17,9 +17,6 @@ public class StreamingNaiveBayesTest {
 
     private static int totalCount;
 
-    private static HashMap<String, HashMap<String, Integer>> labelWordCount1 = new HashMap<>();
-    public static HashMap<String, Integer> labelCount1 = new HashMap<>();
-
     public static void main(String[] args) throws IOException {
         BufferedReader stdin = new BufferedReader(new InputStreamReader(System.in));
         String line;
