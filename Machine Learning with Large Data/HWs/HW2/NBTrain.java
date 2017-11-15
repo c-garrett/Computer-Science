@@ -25,13 +25,6 @@ public class NBTrain {
 
 
     public static void main(String[] args) throws IOException {
-        // This function reads in documents and counts
-        // Steps:
-        //  1. Read in a line
-        //      a. Split the line on tab
-        //      b. Obtain the first part of the split as the labels array
-        //      c. Obtain the tokens from the remaining parts
-        //  2. Obtain the counts of labels, and labels and words
         String line;
         while ((line = reader.readLine()) != null) {
 
@@ -57,10 +50,10 @@ public class NBTrain {
             }
 
             // Print the HashMap if the less than 80 percent of memory is available
-//            if(Runtime.getRuntime().freeMemory() < (javaHeapSizeMBs * (.8)) * 1048576 ){
-//                printMap(counts);
-//                counts.clear();
-//            }
+            if(Runtime.getRuntime().freeMemory() < (javaHeapSizeMBs * (.8)) * 1048576 ){
+            	printMap(counts);
+                counts.clear();
+            }
         }
         reader.close();
         pw.println("Y=*\t"+totalCount);
@@ -69,11 +62,6 @@ public class NBTrain {
         pw.close();
     }
 
-    // This function turns documents into features
-    // Steps:
-    //  1. Split document into words
-    //  2. Add words that are cleaned to tokens
-    //  3. Return the tokens
     static Vector<String> tokenizeDoc(String cur_doc) {
         String[] words = cur_doc.split("\\s+");
         Vector<String> tokens = new Vector<>();
