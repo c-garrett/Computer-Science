@@ -1,7 +1,6 @@
 # -------------------------------------------------------------
 # Projects / Code
 - Big Data Machine Learning
--- Several Hadoop Machine Learning algorithms implemented
 # -------------------------------------------------------------
 # Graduate Courses
 ## Multimedia Databases and Data Mining (CMU)(WIP)
