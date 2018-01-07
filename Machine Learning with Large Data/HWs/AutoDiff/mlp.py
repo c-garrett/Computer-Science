@@ -92,7 +92,7 @@ def main(params):
                 grad_approx = (j_positive - j_negative) / (2 * epsilon)
                 if abs(grad_approx - gradients[key][index]) > 1e-4:
                     print("Gradient Checking failed for: {}".format(key))
-                    break
+                    exit(0)
                 value_dict[key][index] = val
 
     # train
