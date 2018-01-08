@@ -1,27 +1,17 @@
-# -------------------------------------------------------------
-# Projects / Code
-- Big Data Machine Learning
-# -------------------------------------------------------------
-# Graduate Courses
-## Multimedia Databases and Data Mining (CMU)(WIP)
-- contains lectures, readings, and homeworks, that I have studied, to learn machine learning.
-- contains programming solutions to homeworks.
-## Machine Learning with Large Data (CMU)(WIP)
-- contains lectures, readings, and homeworks, that I have studied, to learn machine learning.
-- contains programming solutions to assignments.
-## Statistical Machine Learning (CMU)(DONE)
-- contains lectures and homeworks that I have studied, in order to learn machine learning
-- no numerical computations implemented in R
-## Convex Optimization 1(Stanford)(Done)
-- contains lectures and homeworks that I have studied, in order to learn machine learning
-## Intermediate Statistics (CMU)(Done)
-- contains lectures and homeworks that I have studied, in order to learn statistics.
-# -------------------------------------------------------------
-## Probability Theory (NYU)(Done)
-- contains lectures and notes that I have studied, in order to learn probability theory.  
-## Neural-Networks
-- contains assignments of coursera course
-## Collaborative-Filtering
-- contains python implementations of different techniques, from Intro to Social Networks course taken in college
-
-
+***
+# Graduate Level Projects and Code
+* Algorithms for Large Datasets (5)
+  1. NB
+***
+Graduate Courses Followed | University | Status | Course ID
+------------------------- | ---------- | ------ | ----------
+Multimedia Databases and Data Mining | Carnegie Mellon | WIP | 5
+Machine Learning with Large Data | Carnegie Mellon | WIP | 4
+Statistical Machine Learning | Carnegie Mellon | DONE | 3
+Convex Optimization 1 | Stanford | DONE | 2
+Intermediate Statistics | Carnegie Mellon | DONE | 1
+***
+MOOCs | Provider | Status
+----- | -------- | ------
+Neural-Networks | Coursera | Incomplete
+***
