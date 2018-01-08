@@ -1,6 +1,6 @@
 ***
 # Graduate Level Projects and Code
-* Algorithms for Large Datasets - 5
+* Machine learning for Large Datasets - 5
   * Autodiff with IPM
   * Subsampling a Graph with Approximate PageRank
   * Memory-efficient SGD
@@ -11,7 +11,7 @@
 Graduate Courses Followed | University | Status | Course ID
 ------------------------- | ---------- | ------ | ----------
 Multimedia Databases and Data Mining | Carnegie Mellon | WIP | 5
-Machine Learning with Large Data | Carnegie Mellon | WIP | 4
+Machine Learning with Large Datasets | Carnegie Mellon | WIP | 4
 Statistical Machine Learning | Carnegie Mellon | DONE | 3
 Convex Optimization 1 | Stanford | DONE | 2
 Intermediate Statistics | Carnegie Mellon | DONE | 1
