@@ -2,6 +2,10 @@
 # Graduate Level Projects and Code
 * Distributed Systems - 6
 * Multimedia Databases and Data Mining - 5
+  * Hilbert Curve
+  * Z-ordering
+  * KD-Tree: Count method added to existing KD-Tree implemnetation
+  * Basic SQL scripts (Grouping, Sorting, Duplicates, Exceptions, Similar items)
 * Machine learning for Large Datasets - 4
   * Autodiff with IPM
   * Subsampling a Graph with Approximate PageRank
