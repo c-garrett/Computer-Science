@@ -27,7 +27,8 @@ Statistical Machine Learning | Carnegie Mellon | DONE | 3
 Convex Optimization 1 | Stanford | DONE | 2
 Intermediate Statistics | Carnegie Mellon | DONE | 1
 ***
-MOOCs | Provider | Status
+#### MOOCs and Other
+Course or Other | Provider | Status
 ----- | -------- | ------
 Neural-Networks | Coursera | Incomplete
 ***
