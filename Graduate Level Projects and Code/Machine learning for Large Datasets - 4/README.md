@@ -1,6 +1,5 @@
 ***
-* Machine learning for Large Datasets - 5
-  * Distributed SGD for Matrix Factorization on Spark
+* Machine learning for Large Datasets - 4
   * Autodiff with IPM
   * Subsampling a Graph with Approximate PageRank
   * Memory-efficient SGD
