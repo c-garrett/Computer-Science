@@ -16,7 +16,7 @@
   * Streaming Naive Bayes with feature counts on disk, with stream-and-sort
   * Streaming Naive Bayes with feature counts in memory
 ***
-#### Graduate Level Projects and Code
+#### Graduate Courses Followed
  Course | University | Status | Course ID
 ------------------------- | ---------- | ------ | ----------
 Deep Learning | Carnegie Mellon | NA | 7
