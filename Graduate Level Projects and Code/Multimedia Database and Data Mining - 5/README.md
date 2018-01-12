@@ -1,5 +1,7 @@
 ***
 * Multimedia Databases and Data Mining - 5
+  * Percolation Critical Density Calculations
+  * Correlation Integral
   * Hilbert Curve
   * Z-ordering
   * KD-Tree: Count method added to existing KD-Tree implemnetation
