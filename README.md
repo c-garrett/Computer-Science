@@ -3,6 +3,7 @@
 * Deep Learning - 7
 * Distributed Systems - 6
 * Multimedia Databases and Data Mining - 5
+  * SVD dimension reduction projection
   * Percolation Critical Density Calculations
   * Correlation Integral
   * Hilbert Curve

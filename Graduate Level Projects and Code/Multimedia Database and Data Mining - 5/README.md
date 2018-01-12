@@ -1,5 +1,6 @@
 ***
 * Multimedia Databases and Data Mining - 5
+  * SVD dimension reduction projection
   * Percolation Critical Density Calculations
   * Correlation Integral
   * Hilbert Curve
