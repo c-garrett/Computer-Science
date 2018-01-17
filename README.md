@@ -3,6 +3,8 @@
 * Deep Learning - 7
 * Distributed Systems - 6
 * Multimedia Databases and Data Mining - 5
+  * Tensor Mining (WIP)
+	* D-Cube Algorithm Implementation in SQL
   * SVD dimension reduction projection, SVD Eigenspokes exploration
   * Percolation Critical Density Calculations
   * Correlation Integral
