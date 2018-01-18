@@ -3,8 +3,7 @@
 * Deep Learning - 7
 * Distributed Systems - 6
 * Multimedia Databases and Data Mining - 5
-  * Tensor Mining (WIP)
-	* D-Cube Algorithm Implementation in SQL
+  * (WIP) Tensor Mining D-Cube Algorithm Implementation -> http://www.cs.cmu.edu/~kijungs/papers/dcubeWSDM2017.pdf
   * SVD dimension reduction projection, SVD Eigenspokes exploration
   * Percolation Critical Density Calculations
   * Correlation Integral
@@ -25,7 +24,7 @@
  Course | University | Status | Course ID
 ------------------------- | ---------- | ------ | ----------
 Deep Learning | Carnegie Mellon | NA | 7
-Distributed Systems | Carnegie Mellon | WIP | 6
+Distributed Systems | Carnegie Mellon | NA | 6
 Multimedia Databases and Data Mining | Carnegie Mellon | WIP | 5
 Machine Learning with Large Datasets | Carnegie Mellon | DONE | 4
 Statistical Machine Learning | Carnegie Mellon | DONE | 3

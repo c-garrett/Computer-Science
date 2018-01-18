@@ -6,4 +6,4 @@ CREATE TABLE darpa_data (
   time_in_mintues VARCHAR(50)
 );
 
-COPY darpa_data FROM 'C:\Users\Owner\Desktop\TensorMining-DCUBE\darpa.csv' WITH (FORMAT csv);
+COPY darpa_data FROM 'C:\Users\Owner\Desktop\Machine-Learning\Graduate Level Projects and Code\Multimedia Database and Data Mining - 5\Tensor Mining D-Cube\darpa_data\darpa.csv' WITH (FORMAT csv);
