@@ -1,5 +1,5 @@
 import psycopg2 as psycopg2
-from postgres_config import *
+from configurations import *
 
 
 def connect_database():
@@ -9,7 +9,6 @@ def connect_database():
 
 def close_database_connection(conn):
     conn.close()
-    return
 
 
 def open_cursor(conn):
